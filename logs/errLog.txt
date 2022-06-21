@@ -1,0 +1,3 @@
+20220617	20:26:43	e0be8830-32f3-4488-a785-7c1255e55f45	Error: Not allowed by CORS
+20220620	14:37:10	bffe8ac7-2db4-4f4a-8add-74070d997fc0	SyntaxError: Unexpected token " in JSON at position 0
+20220620	14:39:20	6d8b2823-ca89-42cb-b444-99f6e9b55f6c	TypeError: usersDB.users.find is not a function
